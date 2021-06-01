@@ -1,2 +1,2 @@
 # omikuji
-HTML/CSS/javascript
+HTML/CSS/javascript/Jquery
